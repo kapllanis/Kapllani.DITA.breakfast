@@ -14,11 +14,26 @@
    </keywords>
   </topicmeta>
  </keydef>
- <topicref href="task-breakfastcasserole.dita"/>
- <topicref href="task-bloodymary.dita">
-  <topicref href="task-breakfastsandwich.xdita"/>
-  <topicref href="task-fruitsalad.dita"/>
- </topicref>
- <topicref href="task-omelet.md"/>
+ <topicref href="intro-armando.dita"/>
+ <topichead navtitle="Entrees">
+     <topicref href="task-breakfastcasserole.dita" navtitle="Casserole"/>
+     <topicref href="task-omelet.md"
+      format="markdown">
+      <topicmeta>
+       <shortdesc>You can't go wrong with this breakfast classic!</shortdesc>
+      </topicmeta>
+     </topicref>
+     <topicref href="breakfastsandwich.md"/>
+     <topicref href="task-scrambledeggs.dita"/>
+ </topichead>
+ <topichead navtitle="Drinks">
+     <topicref href="task-bloodymary.dita"/>
+ </topichead>
+ <topichead navtitle="Desserts">
+     <topicref href="task-cookies.dita"/>
+     <topicref href="task-fruitsalad.dita"/>
+ </topichead>
+ <topicref href="task-cleanup.dita"/>
+ 
 
 </map>
