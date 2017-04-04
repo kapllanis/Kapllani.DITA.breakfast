@@ -5,6 +5,7 @@
     <shortdesc>Healthy cooking doesn't always meaning using low-fat products. The full-fat Cheddar
         and Parmesan are satisfying together while also providing a lot of protein and vegetables.
         The caserole is so easy-to-make, it'll become one of you're go-to breakfast choices. </shortdesc>
+    <image href="casserole.jpg"/>
     <taskbody>
         <prereq>
             <ul>
@@ -29,7 +30,7 @@
             <step>
                 <cmd>Heat a large nonstick skillet over medium heat.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Add turkey and scallions, stir to break up any large chunks, and cook for ten
                     minutes, or until browned.</cmd>
             </step>
@@ -59,10 +60,6 @@
             <step>
                 <cmd>Bake the casserole, uncovered, until set and lightly browned on top for 30
                     minutes. </cmd>
-            </step>
-            <step>
-                <note>Make-Ahead Tip: Freeze the baked casserole for up to 2 weeks. Cover with foil
-                    and reheat at 350 degrees F until hot, 35 - 40 minutes. </note>
             </step>
         </steps>
     </taskbody>
