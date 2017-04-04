@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_qtf_1cj_kz">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_pgr_y3t_lz">
     <title></title>
     <shortdesc/>
     <taskbody>
         <context>
             <p></p>
         </context>
-        <steps>
-            <step>
-                <cmd></cmd>
-            </step>
-        </steps>
     </taskbody>
 </task>

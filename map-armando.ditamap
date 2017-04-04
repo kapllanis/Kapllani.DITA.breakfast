@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Breakfast Guide</title>
+ <title>Breakfast Guide for Armando</title>
  <topicmeta>
   <author>Stephanie Kapllani</author>
 
@@ -14,8 +14,6 @@
    </keywords>
   </topicmeta>
  </keydef>
- 
- <topicref href="introduction.dita"/>
  <topicref href="task-breakfastcasserole.dita"/>
  <topicref href="task-bloodymary.dita">
   <topicref href="task-breakfastsandwich.xdita"/>

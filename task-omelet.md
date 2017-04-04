@@ -1,6 +1,5 @@
 # Omelet  
 
-
 ##Ingredients 
 * 3 Eggs, warmed in hot water for 5 minutes
 * Pinch of salt
