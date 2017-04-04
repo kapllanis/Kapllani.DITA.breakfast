@@ -1,11 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="task_mgy_r3t_lz">
-    <title></title>
-    <shortdesc/>
+<task id="scrambledeggs">
+    <title> Scrambled Eggs</title>
+    <shortdesc>You can't go wrong with this breakfast classic, follow these simple instructions for
+        a very healthy meal.  </shortdesc>
+    <image href="images/scrambledeggs.jpg"/>
     <taskbody>
+        <prereq>Gather these ingredients. <ul>
+            <li>¾ pound fresh asparagus </li>
+            <li>Olive oil </li>
+            <li>Kosher salt</li>
+            <li>Black pepper </li>
+            <li>6 extra-large eggs</li>
+            <li>3 tablespoons half-and-half </li>
+            <li>1 tablespoon unslated butter, divided</li>
+            <li>2 to 4 slices of bread </li>
+        </ul></prereq>
         <context>
-            <p></p>
+            <p><b>Directions</b>
+            </p>
         </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 400 degrees F.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Break off the tough ends of the asparagus, and, if they're think, peel them.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Place the asparagus on baking sheet, dirzzle with olive oil and sprinkle with
+                    salt. </cmd>
+            </step>
+            <step>
+                <cmd>Roast the asparagus for 15-20 minutes, until tender but still crisp. </cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle with Parmesan cheese. </cmd>
+            </step>
+            <step>
+                <cmd>Place back into the oven for 5 minutes or until the cheese melts. </cmd>
+            </step>
+            <step>
+                <cmd>Whisk the eggs in a bowl with the half-and-half, salt, and pepper. </cmd>
+            </step>
+            <step>
+                <cmd>Melt ½ tablespoon of butter in a large skillet. </cmd>
+            </step>
+            <step>
+                <cmd>Cook the eggs on the lowest heat, stirring constantly with a wooden spoon.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Remove from heat, add the remaining ½ tablespoon of butter, and stir until it
+                    melts. </cmd>
+            </step>
+            <step>
+                <cmd>Serve with the roasted asparagus and toasted bread.  </cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>

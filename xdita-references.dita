@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="topic_k1g_yn5_lz">
+  <title>References </title>
+  <body>
+    <p>The breakfast recipes in this guide were all found on the FoodNetwork website. The links to
+      the recipes are listed below. 
+  
+    </p>
+    <ul id="ul_oyl_d45_lz">
+      <li>
+        <p><xref
+            href="http://www.foodnetwork.com/recipes/trisha-yearwood/breakfast-sausage-casserole"
+            format="html" scope="external">Breakfast Casserole</xref></p>
+      </li>
+      <li>
+        <p><xref
+            href="http://www.foodnetwork.com/recipes/jersey-ham-egg-bagel-and-herb-cream-cheese-breakfast-sandwich"
+            format="html" scope="external">Breakfast Sandwich</xref>
+        </p>
+      </li>
+      <li>
+        <p><xref href="http://www.foodnetwork.com/recipes/alton-brown/omelet-recipe" format="html"
+            scope="external">Omelet</xref>
+        </p>
+      </li>
+      <li>
+        <p><xref
+            href="http://www.foodnetwork.com/recipes/ina-garten/roasted-asparagus-with-scrambled-eggs-recipe"
+            format="html" scope="external">Scrambled Eggs</xref></p>
+      </li>
+      <li>
+        <p><xref
+            href="http://www.foodnetwork.com/recipes/food-network-kitchen/chocolate-chip-cookies-recipe4"
+            format="html" scope="external">Chocolate Chip Cookes</xref>
+        </p>
+      </li>
+      <li>
+        <p><xref href="http://www.foodnetwork.com/recipes/food-network-kitchen/smoky-bloody-marys"
+            format="html" scope="external">Bloody Mary</xref>
+        </p>
+      </li>
+    </ul>
+  </body>
+</topic>

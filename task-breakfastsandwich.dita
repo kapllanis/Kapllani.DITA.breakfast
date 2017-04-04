@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="sandwich">
+    <title>Breakfast Sandwich </title>
+    <shortdesc>Nothing beats a sandwich on a bagel, satisfying and delicious. </shortdesc>
+    <image href="images/sandwich.jpg"/>
+    <taskbody>
+        <prereq>Gather these ingredients. <ul>
+                <li>¾ cup cream cheese</li>
+                <li>1 tablespoon dill</li>
+                <li>1 tablespoon parsley</li>
+                <li>Pinch chile powder</li>
+                <li>Kosher salt </li>
+                <li>Ground black pepper</li>
+                <li>1 tomato</li>
+                <li>Vegetable oil </li>
+                <li>8 slices of Ham</li>
+                <li>8 eggs</li>
+                <li>1 tablespoon butter</li>
+                <li>4 bagles, split </li>
+            </ul></prereq>
+        <context>
+            <p><b>Directions</b>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Place the cream cheese in a bowl. </cmd>
+            </step>
+            <step>
+                <cmd>Add the dill, parsley, chile, salt, and pepper to the bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Thoroughly mix the ingredients to evenly distribute the flavors. </cmd>
+            </step>
+            <step>
+                <cmd> Slice 4 rounds from the center of the tomato. </cmd>
+            </step>
+            <step>
+                <cmd>Season the tomatoes with salt and pepper and set aside.</cmd>
+            </step>
+            <step>
+                <cmd>Whisk the eggs in a bowl and sprinkle with salt and pepper. </cmd>
+            </step>
+            <step>
+                <cmd>Put a pan on medium heat and add the butter. </cmd>
+            </step>
+            <step>
+                <cmd>Add the eggs and cook until scrambled (about 5 minutes).</cmd>
+            </step>
+            <step>
+                <cmd>Spread 1 tablespoon of the herb cream cheese on each bagel half. </cmd>
+            </step>
+            <step>
+                <cmd>Place 2 slices of the meet on the bottom half of each bagel. </cmd>
+            </step>
+            <step>
+                <cmd>Top with scrambled eggs and sliced tomato. </cmd>
+            </step>
+            <step>
+                <cmd>Place the top half of each bagel on the sandwiches and enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

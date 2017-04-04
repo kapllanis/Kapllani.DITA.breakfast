@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="casserole">
+    <title>Omelet</title>
+    <shortdesc>If you're feeling up to a breakfast cooking challenge, choose this recipe. It is a
+        little more complicated than the other selections, but you won't be disappointed with this
+        delicious meal. </shortdesc>
+    <image href="images/casserole.jpg"/>
+    <taskbody>
+        <prereq>Gather these ingredients. <ul>
+            <li>3 eggs, warmed in hot water for 5 minutes</li>
+                <li>Pinch of salt</li>
+                <li>1 teaspoon butter, room temperature</li>
+                <li>½ teaspoon chives</li>
+                <li>1 red pepper</li>
+                <li>½ cup mushrooms</li>
+                <li>½ cup cheddar cheese</li>
+                <li>¼ cup of bacon bits </li>
+                <li>¼ cup of onions</li>
+        </ul></prereq>
+        <context>
+            <p><b>Directions</b>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Crack the warm eggs into a bowl. </cmd>
+            </step>
+            <step>
+                <cmd>Add salt to the eggs and blend with a fork.</cmd>
+            </step>
+            <step>
+                <cmd>Heat a pan over medium-high heat.</cmd>
+            </step>
+            <step>
+                <cmd>Once the pan is hot, add butter to the pan.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the eggs into the center of the pan and stir vigorously with a rubber
+                    spatula for 5 seconds. </cmd>
+            </step>
+            <step>
+                <cmd>Using your spatula, move it around the edge of the egg mixture to help loosen
+                    the edge. </cmd>
+            </step>
+            <step>
+                <cmd>Add the mushrooms, onions, red pepper, and bacon bits.</cmd>
+            </step>
+            <step>
+                <cmd>After 6 minutes, add the cheese.</cmd>
+            </step>
+            <step>
+                <cmd>After 4 more minutes, shake the pan to loosen the omelet from the pan.</cmd>
+            </step>
+            <step>
+                <cmd>Using your spatula, fold over half the omelet. </cmd>
+            </step>
+            <step>
+                <cmd>Slide the omelet onto your plate and spinkle with the chives.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

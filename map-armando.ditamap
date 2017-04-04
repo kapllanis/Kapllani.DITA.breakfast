@@ -23,7 +23,6 @@
        <shortdesc>You can't go wrong with this breakfast classic!</shortdesc>
       </topicmeta>
      </topicref>
-     <topicref href="breakfastsandwich.md"/>
      <topicref href="task-scrambledeggs.dita"/>
  </topichead>
  <topichead navtitle="Drinks">
@@ -31,9 +30,8 @@
  </topichead>
  <topichead navtitle="Desserts">
      <topicref href="task-cookies.dita"/>
-     <topicref href="task-fruitsalad.dita"/>
  </topichead>
  <topicref href="task-cleanup.dita"/>
- 
+ <topicref href="references.dita"/>
 
 </map>

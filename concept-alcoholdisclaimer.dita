@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="alcoholdisclaimer">
+ <title>Alcohol Consumption Warning</title>
+ <conbody>
+  <p id="alcohol"> The following bevarage contains alcohol. 
+   High consumption of alcohol severly impairs a person's motor functions. 
+   Please do not consume alcohol if before you drive, or if you have any other serious
+   health conditions. 
+   
+  </p>
+ </conbody>
+</concept>

@@ -2,13 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="casserole">
     <title>Breakfast Casserole </title>
-    <shortdesc>Healthy cooking doesn't always meaning using low-fat products. The full-fat Cheddar
-        and Parmesan are satisfying together while also providing a lot of protein and vegetables.
-        The caserole is so easy-to-make, it'll become one of you're go-to breakfast choices. </shortdesc>
-    <image href="images/Casserole.jpg"/>
+    <shortdesc>If you're feeling up to a breakfast cooking challenge, choose this recipe. It is a
+        little more complicated than the other selections, but you won't be disappointed with this
+        delicious meal. </shortdesc>
+    <image href="images/casserole.jpg"/>
     <taskbody>
-        <prereq>
-            <ul>
+        <prereq>Gather these ingredients. <ul>
                 <li>8 ounces of spicy or sweet turkey links, casings removed, meat crumbled</li>
                 <li>2 scallions, sliced</li>
                 <li>6 eggs </li>
@@ -21,10 +20,10 @@
                 <li>¾ cup shredded Cheddar</li>
                 <li>½ cup grated Parmesan </li>
                 <li>½ whole wheat baguette, cut into ¾-inch cubes (about 4 cups)</li>
-            </ul>
-        </prereq>
+            </ul></prereq>
         <context>
-            <p>Directions </p>
+            <p><b>Directions</b>
+            </p>
         </context>
         <steps>
             <step>
@@ -52,7 +51,7 @@
                 <cmd>Spread the egg mixture evenly in the dish. </cmd>
             </step>
             <step>
-                <cmd>Cover and refrigerate for at least 6 hours or preferably overnight. </cmd>
+                <cmd>Cover and refrigerate for an hour. </cmd>
             </step>
             <step>
                 <cmd>Preheat the oven to 350 degrees F. </cmd>
