@@ -16,11 +16,11 @@
  </keydef>
  
  <topicref href="introduction.dita"/>
- <topicref href="task-breakfastcaserole.dita"/>
+ <topicref href="task-breakfastcasserole.dita"/>
  <topicref href="task-bloodymary.dita">
   <topicref href="task-breakfastsandwich.xdita"/>
-  <topicref href="task-fruitsalad"/>
+  <topicref href="task-fruitsalad.dita"/>
  </topicref>
- <topicref href="task-omelet.mdita"/>
+ <topicref href="task-omelet.md"/>
 
 </map>
