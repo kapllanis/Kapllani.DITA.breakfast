@@ -7,17 +7,18 @@
     </shortdesc>
     <taskbody>
         <prereq>Gather these ingredients. <ul>
-                <li>¾ cup cream cheese</li>
-                <li>1 tablespoon dill</li>
-                <li>1 tablespoon parsley</li>
-                <li>Pinch chile powder</li>
+                <li audience="mom">¾ cup cream cheese</li>
+                <li audience="mom">1 tablespoon dill</li>
+                <li audience="mom">1 tablespoon parsley</li>
+                <li audience="mom">Pinch chile powder</li>
                 <li>Kosher salt </li>
                 <li>Ground black pepper</li>
                 <li>1 tomato</li>
                 <li>Vegetable oil </li>
                 <li>8 slices of Ham</li>
                 <li>8 eggs</li>
-                <li>1 tablespoon butter</li>
+                <li audience="mom">1 tablespoon butter</li>
+                <li audience="armando">1 tablespoon margarine</li>
                 <li>4 bagles, split </li>
             </ul></prereq>
         <context>
@@ -25,13 +26,13 @@
             </p>
         </context>
         <steps>
-            <step>
+            <step audience="mom">
                 <cmd>Place the cream cheese in a bowl. </cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Add the dill, parsley, chile, salt, and pepper to the bowl.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Thoroughly mix the ingredients to evenly distribute the flavors. </cmd>
             </step>
             <step>
@@ -43,13 +44,18 @@
             <step>
                 <cmd>Whisk the eggs in a bowl and sprinkle with salt and pepper. </cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Put a pan on medium heat and add the butter. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>
+                    Put a pan on medium heat and add the margarine.
+                </cmd>
             </step>
             <step>
                 <cmd>Add the eggs and cook until scrambled (about 5 minutes).</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Spread 1 tablespoon of the herb cream cheese on each bagel half. </cmd>
             </step>
             <step>

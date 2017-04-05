@@ -37,13 +37,13 @@
             <step>
                 <cmd>Heat a large nonstick skillet over medium heat.</cmd>
             </step>
-            <step>
-                <cmd audience="armando">
+            <step audience="armando">
+                <cmd>
                     Add tofu, stir to break up an large chunks, and cook for ten minutes.
                 </cmd>
             </step>
-            <step>
-                <cmd audience="mom">Add turkey and scallions, stir to break up any large chunks, and cook for ten
+            <step audience="mom">
+                <cmd>Add turkey and scallions, stir to break up any large chunks, and cook for ten
                     minutes, or until browned.</cmd>
             </step>
             <step>
@@ -53,9 +53,11 @@
                 <cmd>Whisk the eggs, egg whites, milk and ½ teaspoon each salt and pepper in a large
                     bowl until combined. </cmd>
             </step>
+            <step audience="mom">
+                <cmd>Add the cooked sausage.</cmd>
+            </step>
             <step>
-                <cmd>Add the cooked sausage, spinach, cheeses and bread and toss to distribute
-                    ingredients evenly. </cmd>
+                <cmd>Add the spinach, cheeses, bread, and toss to distribute ingredients evenly.</cmd>
             </step>
             <step>
                 <cmd>Spray a 3-quart casserole dish with cooking spray. </cmd>

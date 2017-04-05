@@ -38,11 +38,11 @@
             <step>
                 <cmd>Heat a pan over medium-high heat.</cmd>
             </step>
-            <step>
-                <cmd audience="mom">Once the pan is hot, add butter to the pan.</cmd>
+            <step audience="mom">
+                <cmd>Once the pan is hot, add butter to the pan.</cmd>
             </step>
-            <step>
-                <cmd audience="armando">Once the pan is hot, add olive oil to the pan.
+            <step audience="armando">
+                <cmd>Once the pan is hot, add olive oil to the pan.
                     
                 </cmd>
             </step>
@@ -57,8 +57,8 @@
             <step>
                 <cmd>Add the mushrooms, onions, red pepper, and bacon bits.</cmd>
             </step>
-           <step>
-               <cmd audience="mom">
+           <step audience="mom">
+               <cmd>
                    Add the bacon bits to the omelet. 
                </cmd>
            </step>
