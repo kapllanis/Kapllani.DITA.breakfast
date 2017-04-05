@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " xtrc="map:1;4:6" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+ <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title " xtrc="title:1;5:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Breakfast Guide for Mom</title>
+ 
+ <topicmeta xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicmeta " xtrc="topicmeta:1;7:13" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">
+  <author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author>
+  
+ </topicmeta>
+ 
+ 
+ 
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " first_topic_id="#unique_1" href="#unique_1" id="unique_1" ohref="concept-intro.dita" type="concept" xtrc="topicref:1;20:39" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="introduction"><resourceid appid="introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Welcome to your Breakfast Guide <keyword class="- topic/keyword " keyref="person" xtrc="keyword:1;4:66" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">Mom!</keyword>  </navtitle><?ditaot gentext?><linktext class="- map/linktext ">Welcome to your Breakfast Guide Mom!</linktext><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref>
+ <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="+ map/topicref mapgroup-d/topichead " id="d5e31" navtitle="Entrees" xtrc="topichead:1;21:32" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicref class="- map/topicref " first_topic_id="#unique_2" href="#unique_2" id="unique_2" navtitle="Casserole" ohref="task-breakfastcasserole.dita" type="task" xtrc="topicref:2;22:71" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="casserole"><resourceid appid="casserole" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Breakfast Casserole </navtitle><?ditaot gentext?><linktext class="- map/linktext ">Breakfast Casserole</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If you're feeling up to a breakfast cooking challenge, choose this recipe. It is a         little more complicated than the other selections, but you won't be disappointed with this         delicious meal.           <image class="- topic/image " href="images/casserole.jpg" placement="inline" xtrc="image:1;11:41" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita"/>     </shortdesc><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_3" href="#unique_3" id="unique_3" navtitle="Scrambled Eggs" ohref="task-scrambledeggs.dita" type="task" xtrc="topicref:3;23:71" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="scrambledeggs"><resourceid appid="scrambledeggs" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle "> Scrambled Eggs</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Scrambled Eggs</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can't go wrong with this breakfast classic, follow these simple instructions for         a very healthy meal.                <image class="- topic/image " href="images/scrambledeggs.jpg" placement="inline" xtrc="image:1;9:49" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita"/>          </shortdesc><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_4" href="#unique_4" id="unique_4" navtitle="Omelet" ohref="task-omelet.dita" type="task" xtrc="topicref:4;24:56" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="casserole"><resourceid appid="casserole" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Omelet</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Omelet</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If you're feeling up to a breakfast cooking challenge, choose this recipe. It is a         little more complicated than the other selections, but you won't be disappointed with this         delicious meal.               <image class="- topic/image " href="images/omelet.jpg" placement="inline" xtrc="image:1;10:38" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita"/>              </shortdesc><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_5" href="#unique_5" id="unique_5" navtitle="Breakfast Sandwich" ohref="task-breakfastsandwich.dita" type="task" xtrc="topicref:5;25:79" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="sandwich"><resourceid appid="sandwich" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Breakfast Sandwich </navtitle><?ditaot gentext?><linktext class="- map/linktext ">Breakfast Sandwich</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Nothing beats a sandwich on a bagel, satisfying and delicious.      <image class="- topic/image " href="images/sandwich.jpg" placement="inline" xtrc="image:1;6:40" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita"/>     </shortdesc><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref></topichead>
+ <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="+ map/topicref mapgroup-d/topichead " id="d5e93" navtitle="Drinks" xtrc="topichead:2;27:31" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicref class="- map/topicref " first_topic_id="#unique_6" href="#unique_6" id="unique_6" ohref="task-bloodymary.dita" type="task" xtrc="topicref:6;28:42" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="bloodymary"><resourceid appid="bloodymary" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Bloody Mary </navtitle><?ditaot gentext?><linktext class="- map/linktext ">Bloody Mary</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is one of my favorite drinks to have with my breakfast on the weekends and it's         super easy to make!       <image class="- topic/image " href="images/mommary.jpg" placement="inline" xtrc="image:1;7:39" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita"/>     </shortdesc><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref></topichead>
+ <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="+ map/topicref mapgroup-d/topichead " id="d5e111" navtitle="Desserts" xtrc="topichead:3;30:33" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicref class="- map/topicref " href="mdita-fruitsalad.md" id="" ohref="mdita-fruitsalad.md" xtrc="topicref:7;31:41" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id=""><resourceid appid="" class="- topic/resourceid " oxy-source="topic"/><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref><topicref class="- map/topicref " href="mdita-cookies.md" id="" ohref="mdita-cookies.md" xtrc="topicref:8;32:38" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id=""><resourceid appid="" class="- topic/resourceid " oxy-source="topic"/><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref></topichead>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " first_topic_id="#unique_7" href="#unique_7" id="unique_7" ohref="xdita-references.dita" type="topic" xtrc="topicref:9;34:42" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="topic_k1g_yn5_lz"><resourceid appid="topic_k1g_yn5_lz" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">References </navtitle><?ditaot gentext?><linktext class="- map/linktext ">References</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Click here for a list of links ot all of the recipes! </shortdesc><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " first_topic_id="#unique_8" href="#unique_8" id="unique_8" ohref="troubleshooting-injuries.dita" type="troubleshooting" xtrc="topicref:10;35:50" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="trouble_mvz_5ww_lz"><resourceid appid="trouble_mvz_5ww_lz" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">What to Do if You Burn Yourself</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What to Do if You Burn Yourself</linktext><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " first_topic_id="#unique_9" href="#unique_9" id="unique_9" ohref="concept-conclusion.dita" type="concept" xtrc="topicref:11;36:44" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="concept_gfr_xxw_lz"><resourceid appid="concept_gfr_xxw_lz" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Thank You!</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Thank You!</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> I hope you enjoyed the food! Please leave an comments or recommendations on how I can improve for next time!       <image class="- topic/image " href="images/meme.jpg" placement="inline" xtrc="image:1;7:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-conclusion.dita"/>  </shortdesc><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref>
+ 
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " first_topic_id="#unique_10" href="#unique_10" id="unique_10" ohref="xdita-safetydisclaimer.dita" type="topic" xtrc="topicref:12;38:48" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="disclaimer"><resourceid appid="disclaimer" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Safety Disclaimer</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Safety Disclaimer</linktext><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " first_topic_id="#unique_11" href="#unique_11" id="unique_11" ohref="concept-alcoholdisclaimer.dita" type="concept" xtrc="topicref:13;39:51" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="alcoholdisclaimer"><resourceid appid="alcoholdisclaimer" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Alcohol Consumption Warning</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Alcohol Consumption Warning</linktext><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></topicmeta></topicref>
+ 
+</opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="unique_1" oid="introduction" xtrc="concept:1;3:28" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">
+ <title class="- topic/title " xtrc="title:1;4:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">Welcome to your Breakfast Guide <keyword class="- topic/keyword " keyref="person" xtrc="keyword:1;4:66" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">Mom!</keyword>
+ </title><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+ <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">
+  <p class="- topic/p " id="unique_1_Connect_42_introduction" xtrc="p:1;7:24" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">Good morning! I hope these breakfast recipes meet all your nutrion needs! I
+   tried to include a good balance between healthy and sweet foods. The following list includes the
+   locations of all the materials for your cooking needs. If there are any emergencies, call me!<ul class="- topic/ul " xtrc="ul:1;9:101" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">
+    <li class="- topic/li " xtrc="li:1;10:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;10:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">Spices</b> are located in the cabinet above the sink. </li>
+    <li class="- topic/li " xtrc="li:2;11:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;11:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">Fresh Food</b> is located in the fridge.</li>
+    <li class="- topic/li " xtrc="li:3;12:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita"><b class="+ topic/ph hi-d/b " xtrc="b:3;12:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">Dry Food</b> is located in the pantry next to the window.</li>
+    <li class="- topic/li " xtrc="li:4;13:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita"><b class="+ topic/ph hi-d/b " xtrc="b:4;13:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-intro.dita">Stove top equipment, plates, bowls, and utensils</b> are located in the cabinets next to
+     the fridge. </li>
+   </ul>
+  </p>
+ </conbody>
+</concept><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d5e31"><title class="- topic/title ">Entrees</title><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="unique_2" oid="casserole" xtrc="task:1;3:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+    
+    <title class="- topic/title " xtrc="title:1;5:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Breakfast Casserole </title>
+    
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;7:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">If you're feeling up to a breakfast cooking challenge, choose this recipe. It is a
+        little more complicated than the other selections, but you won't be disappointed with this
+        delicious meal. 
+    
+    <image class="- topic/image " href="images/casserole.jpg" placement="inline" xtrc="image:1;11:41" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita"/>
+    </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+    
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;14:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;15:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Gather these ingredients. <ul class="- topic/ul " xtrc="ul:1;15:47" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <li audience="mom" class="- topic/li " xtrc="li:1;16:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">8 ounces of spicy or sweet turkey links, casings removed, meat crumbled</li>
+                
+                <li class="- topic/li " xtrc="li:3;18:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">2 scallions, sliced</li>
+                <li class="- topic/li " xtrc="li:4;19:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">6 eggs </li>
+                <li class="- topic/li " xtrc="li:5;20:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">6 large egg whites</li>
+                <li audience="mom" class="- topic/li " xtrc="li:6;21:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">1 ¾ cups of 1% milk</li>
+                
+                <li class="- topic/li " xtrc="li:8;23:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Kosher salt </li>
+                <li class="- topic/li " xtrc="li:9;24:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Freshly ground black pepper</li>
+                <li class="- topic/li " xtrc="li:10;25:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">One 9-ounce package frozen chopped spinach, thawed and drained of excess
+                    liquid</li>
+                <li audience="mom" class="- topic/li " xtrc="li:11;27:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">¾ cup shredded cheddar</li>
+                
+                <li audience="mom" class="- topic/li " xtrc="li:13;29:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">½ cup grated parmesan </li>
+                <li class="- topic/li " xtrc="li:14;30:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">½ whole wheat baguette, cut into ¾-inch cubes (about 4 cups)</li>
+            </ul></prereq>
+        <context class="- topic/section task/context " xtrc="context:1;32:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+            <p class="- topic/p " xtrc="p:1;33:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;33:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Directions</b>
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;36:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+            <step class="- topic/li task/step " xtrc="step:1;37:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;38:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Heat a large nonstick skillet over medium heat.</cmd>
+            </step>
+            
+            <step audience="mom" class="- topic/li task/step " xtrc="step:3;45:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;46:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Add turkey and scallions, stir to break up any large chunks, and cook for ten
+                    minutes, or until browned.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;49:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;50:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Remove from heat and let cool slightly.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;52:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;53:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Whisk the eggs, egg whites, milk and ½ teaspoon each salt and pepper in a large
+                    bowl until combined. </cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:6;56:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;57:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Add the cooked sausage.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:7;59:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;60:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Add the spinach, cheeses, bread, and toss to distribute ingredients evenly.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:8;62:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:8;63:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Spray a 3-quart casserole dish with cooking spray. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:9;65:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:9;66:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Spread the egg mixture evenly in the dish. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:10;68:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:10;69:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Cover and refrigerate for an hour. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:11;71:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:11;72:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Preheat the oven to 350 degrees F. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:12;74:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:12;75:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Bake the casserole, uncovered, until set and lightly browned on top for 30
+                    minutes. </cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrc="postreq:1;79:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+            <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:1;6:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita"> Be careful after working on the stove. The stove top will remain hot for a while after use, so don't place your hand 
+      or any other items on the stove top. I am not responsible for any injuries! Please use all equipment, such as knives, carefully! 
+    </p>
+        </postreq>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="unique_3" oid="scrambledeggs" xtrc="task:1;3:26" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita"> Scrambled Eggs</title>
+    
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;6:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">You can't go wrong with this breakfast classic, follow these simple instructions for
+        a very healthy meal.  
+    
+        <image class="- topic/image " href="images/scrambledeggs.jpg" placement="inline" xtrc="image:1;9:49" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita"/>
+    
+    </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+    
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;13:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;14:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Gather these ingredients. <ul class="- topic/ul " xtrc="ul:1;14:47" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+            <li class="- topic/li " xtrc="li:1;15:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">¾ pound fresh asparagus </li>
+            <li class="- topic/li " xtrc="li:2;16:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Olive oil </li>
+            <li class="- topic/li " xtrc="li:3;17:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Kosher salt</li>
+            <li class="- topic/li " xtrc="li:4;18:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Black pepper </li>
+            <li class="- topic/li " xtrc="li:5;19:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">6 extra-large eggs</li>
+            <li class="- topic/li " xtrc="li:6;20:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">3 tablespoons half-and-half </li>
+            <li class="- topic/li " xtrc="li:7;21:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">1 tablespoon unslated butter, divided</li>
+            <li class="- topic/li " xtrc="li:8;22:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">2 to 4 slices of bread </li>
+        </ul></prereq>
+        <context class="- topic/section task/context " xtrc="context:1;24:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+            <p class="- topic/p " xtrc="p:1;25:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;25:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Directions</b>
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;28:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+            <step class="- topic/li task/step " xtrc="step:1;29:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;30:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Preheat the oven to 400 degrees F.</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:2;32:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;33:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Break off the tough ends of the asparagus, and, if they're think, peel them.
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;36:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;37:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Place the asparagus on baking sheet, dirzzle with olive oil and sprinkle with
+                    salt. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;40:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;41:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Roast the asparagus for 15-20 minutes, until tender but still crisp. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;43:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;44:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Sprinkle with Parmesan cheese. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;46:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;47:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Place back into the oven for 5 minutes or until the cheese melts. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:7;49:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;50:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Whisk the eggs in a bowl with the half-and-half, salt, and pepper. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:8;52:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:8;53:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Melt ½ tablespoon of butter in a large skillet. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:9;55:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:9;56:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Cook the eggs on the lowest heat, stirring constantly with a wooden spoon.
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:10;59:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:10;60:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Remove from heat, add the remaining ½ tablespoon of butter, and stir until it
+                    melts. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:11;63:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:11;64:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">Serve with the roasted asparagus and toasted bread.  </cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrc="postreq:1;67:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-scrambledeggs.dita">
+            <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:1;6:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita"> Be careful after working on the stove. The stove top will remain hot for a while after use, so don't place your hand 
+      or any other items on the stove top. I am not responsible for any injuries! Please use all equipment, such as knives, carefully! 
+    </p>
+        </postreq>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="unique_4" oid="casserole" xtrc="task:1;3:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Omelet</title>
+    
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;6:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">If you're feeling up to a breakfast cooking challenge, choose this recipe. It is a
+        little more complicated than the other selections, but you won't be disappointed with this
+        delicious meal. 
+        
+    <image class="- topic/image " href="images/omelet.jpg" placement="inline" xtrc="image:1;10:38" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita"/>
+        
+    </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;13:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;14:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Gather these ingredients. <ul class="- topic/ul " xtrc="ul:1;14:47" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+            <li class="- topic/li " xtrc="li:1;15:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">3 eggs, warmed in hot water for 5 minutes</li>
+                <li class="- topic/li " xtrc="li:2;16:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Pinch of salt</li>
+                
+                <li audience="mom" class="- topic/li " xtrc="li:4;18:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">1 teaspoon butter, room temperature</li>
+                <li class="- topic/li " xtrc="li:5;19:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">½ teaspoon chives</li>
+                <li class="- topic/li " xtrc="li:6;20:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">1 red pepper</li>
+                <li class="- topic/li " xtrc="li:7;21:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">½ cup mushrooms</li>
+                <li audience="mom" class="- topic/li " xtrc="li:8;22:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">½ cup cheddar cheese</li>
+                
+                <li audience="mom" class="- topic/li " xtrc="li:10;24:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">¼ cup of bacon bits </li>
+                <li class="- topic/li " xtrc="li:11;25:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">¼ cup of onions</li>
+        </ul></prereq>
+        <context class="- topic/section task/context " xtrc="context:1;27:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+            <p class="- topic/p " xtrc="p:1;28:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;28:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Directions</b>
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;31:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+            <step class="- topic/li task/step " xtrc="step:1;32:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;33:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Crack the warm eggs into a bowl. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;35:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;36:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Add salt to the eggs and blend with a fork.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;38:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;39:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Heat a pan over medium-high heat.</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:4;41:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;42:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Once the pan is hot, add butter to the pan.</cmd>
+            </step>
+            
+            <step class="- topic/li task/step " xtrc="step:6;49:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;50:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Pour the eggs into the center of the pan and stir vigorously with a rubber
+                    spatula for 5 seconds. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:7;53:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;54:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Using your spatula, move it around the edge of the egg mixture to help loosen
+                    the edge. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:8;57:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:8;58:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Add the mushrooms, onions, red pepper, and bacon bits.</cmd>
+            </step>
+           <step audience="mom" class="- topic/li task/step " xtrc="step:9;60:33" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+               <cmd class="- topic/ph task/cmd " xtrc="cmd:9;61:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                   Add the bacon bits to the omelet. 
+               </cmd>
+           </step>
+                
+               <step class="- topic/li task/step " xtrc="step:10;66:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita"> 
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:10;67:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">After 6 minutes, add the cheese.</cmd>
+               </step>
+            <step class="- topic/li task/step " xtrc="step:11;69:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:11;70:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">After 4 more minutes, shake the pan to loosen the omelet from the pan.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:12;72:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:12;73:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Using your spatula, fold over half the omelet. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:13;75:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:13;76:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">Slide the omelet onto your plate and spinkle with the chives.</cmd>
+            </step>
+    
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrc="postreq:1;80:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-omelet.dita">
+            <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:1;6:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita"> Be careful after working on the stove. The stove top will remain hot for a while after use, so don't place your hand 
+      or any other items on the stove top. I am not responsible for any injuries! Please use all equipment, such as knives, carefully! 
+    </p>
+        </postreq>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="unique_5" oid="sandwich" xtrc="task:1;3:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Breakfast Sandwich </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Nothing beats a sandwich on a bagel, satisfying and delicious. 
+    <image class="- topic/image " href="images/sandwich.jpg" placement="inline" xtrc="image:1;6:40" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita"/>
+    </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;8:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;9:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Gather these ingredients. <ul class="- topic/ul " xtrc="ul:1;9:47" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <li audience="mom" class="- topic/li " xtrc="li:1;10:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">¾ cup cream cheese</li>
+                <li audience="mom" class="- topic/li " xtrc="li:2;11:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">1 tablespoon dill</li>
+                <li audience="mom" class="- topic/li " xtrc="li:3;12:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">1 tablespoon parsley</li>
+                <li audience="mom" class="- topic/li " xtrc="li:4;13:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Pinch chile powder</li>
+                <li class="- topic/li " xtrc="li:5;14:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Kosher salt </li>
+                <li class="- topic/li " xtrc="li:6;15:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Ground black pepper</li>
+                <li class="- topic/li " xtrc="li:7;16:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">1 tomato</li>
+                <li class="- topic/li " xtrc="li:8;17:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Vegetable oil </li>
+                <li class="- topic/li " xtrc="li:9;18:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">8 slices of Ham</li>
+                <li class="- topic/li " xtrc="li:10;19:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">8 eggs</li>
+                <li audience="mom" class="- topic/li " xtrc="li:11;20:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">1 tablespoon butter</li>
+                
+                <li class="- topic/li " xtrc="li:13;22:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">4 bagles, split </li>
+            </ul></prereq>
+        <context class="- topic/section task/context " xtrc="context:1;24:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+            <p class="- topic/p " xtrc="p:1;25:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;25:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Directions</b>
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;28:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+            <step audience="mom" class="- topic/li task/step " xtrc="step:1;29:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;30:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Place the cream cheese in a bowl. </cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:2;32:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;33:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Add the dill, parsley, chile, salt, and pepper to the bowl.</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:3;35:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;36:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Thoroughly mix the ingredients to evenly distribute the flavors. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;38:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;39:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita"> Slice 4 rounds from the center of the tomato. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;41:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;42:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Season the tomatoes with salt and pepper and set aside.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;44:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;45:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Whisk the eggs in a bowl and sprinkle with salt and pepper. </cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:7;47:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;48:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Put a pan on medium heat and add the butter. </cmd>
+            </step>
+            
+            <step class="- topic/li task/step " xtrc="step:9;55:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:9;56:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Add the eggs and cook until scrambled (about 5 minutes).</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:10;58:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:10;59:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Spread 1 tablespoon of the herb cream cheese on each bagel half. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:11;61:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:11;62:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Place 2 slices of the meet on the bottom half of each bagel. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:12;64:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:12;65:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Top with scrambled eggs and sliced tomato. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:13;67:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:13;68:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Place the top half of each bagel on the sandwiches and enjoy!</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrc="postreq:1;71:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+            <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:1;6:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita"> Be careful after working on the stove. The stove top will remain hot for a while after use, so don't place your hand 
+      or any other items on the stove top. I am not responsible for any injuries! Please use all equipment, such as knives, carefully! 
+    </p>
+        </postreq>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d5e93"><title class="- topic/title ">Drinks</title><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="unique_6" oid="bloodymary" xtrc="task:1;3:23" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Bloody Mary  </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">This is one of my favorite drinks to have with my breakfast on the weekends and it's
+        super easy to make!  
+    <image class="- topic/image " href="images/mommary.jpg" placement="inline" xtrc="image:1;7:39" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita"/>
+    </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;9:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;10:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Gather these ingredients. <ul class="- topic/ul " xtrc="ul:1;10:47" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+            <li audience="mom" class="- topic/li " xtrc="li:1;11:32" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">6 slices of peppered bacon </li>
+                <li class="- topic/li " xtrc="li:2;12:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">3 ¼ cups of vodka </li>
+                <li class="- topic/li " xtrc="li:3;13:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">1/3 cup lemon juice</li>
+                <li class="- topic/li " xtrc="li:4;14:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">1 tablespoon horseradish</li>
+                <li class="- topic/li " xtrc="li:5;15:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">2 teaspoons chipotle hot sauce</li>
+                <li class="- topic/li " xtrc="li:6;16:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">2 teaspoons Worcestershire sauce</li>
+                <li class="- topic/li " xtrc="li:7;17:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">½ teaspoon celery salt </li>
+                <li class="- topic/li " xtrc="li:8;18:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Ground black pepper </li>
+                <li class="- topic/li " xtrc="li:9;19:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">6 stalks with leaves</li>
+        </ul></prereq>
+        <context class="- topic/section task/context " xtrc="context:1;21:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+            <p class="- topic/p " xtrc="p:1;22:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;22:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Directions</b>
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;25:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+            <step audience="mom" class="- topic/li task/step " xtrc="step:1;26:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;27:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita"> Cook the bacon in a large skillet over medium heat, turning occasionally (9 -
+                    11 minutes).</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:2;30:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;31:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Drain the bacon on paper towels. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;33:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;34:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Combine the tomato juice, vodka, lemon juice, horseradish, hot sauce,
+                    Worcestershire sauce, celery salt and ½ teaspoon pepper in a pitcher/</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;37:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Refrigerate this mixture until ready to serve.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;40:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;41:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Pour the Bloody Mary mixture into 6 large ice-filled glasses.</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:6;43:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;44:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Add a piece of bacon to each glass and enjoy!</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:7;46:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;47:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita"> Add a piece of celery stalk to each glass and enjoy!</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrc="postreq:1;50:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+            <p class="- topic/p " xtrc="p:1;6:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-alcoholdisclaimer.dita"> The following bevarage contains alcohol. 
+   High consumption of alcohol severly impairs a person's motor functions. 
+   Please do not consume alcohol if before you drive, or if you have any other serious
+   health conditions. 
+   
+  </p> 
+        </postreq>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d5e111"><title class="- topic/title ">Desserts</title></topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(hi-d) (topic h5m-d)" id="unique_7" oid="topic_k1g_yn5_lz" specmodel="inherit" specrole="editable" xtrc="topic:1;3:30" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">
+  <title class="- topic/title " specmodel="inherit" specrole="editable" xtrc="title:1;4:10" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">References </title>
+  <shortdesc class="- topic/shortdesc " specmodel="inherit" specrole="editable" xtrc="shortdesc:1;5:14" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">Click here for a list of links ot all of the recipes! </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+  <body class="- topic/body " specmodel="inherit" specrole="editable" xtrc="body:1;6:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">
+    <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:1;7:8" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">The breakfast recipes in this guide were all found on the FoodNetwork website. The links to
+      the recipes are listed below. 
+  
+    </p>
+    <ul class="- topic/ul " id="unique_7_Connect_42_ul_oyl_d45_lz" specmodel="inherit" specrole="editable" xtrc="ul:1;11:28" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">
+      <li class="- topic/li " specmodel="inherit" specrole="editable" xtrc="li:1;12:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">
+        <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:2;13:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><xref class="- topic/xref " format="html" href="http://www.foodnetwork.com/recipes/trisha-yearwood/breakfast-sausage-casserole" scope="external" specmodel="inherit" specrole="editable" xtrc="xref:1;15:44" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><?ditaot usertext?>Breakfast Casserole</xref></p>
+      </li>
+      <li class="- topic/li " specmodel="inherit" specrole="editable" xtrc="li:2;17:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">
+        <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:3;18:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><xref class="- topic/xref " format="html" href="http://www.foodnetwork.com/recipes/jersey-ham-egg-bagel-and-herb-cream-cheese-breakfast-sandwich" scope="external" specmodel="inherit" specrole="editable" xtrc="xref:2;20:44" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><?ditaot usertext?>Breakfast Sandwich</xref>
+        </p>
+      </li>
+      <li class="- topic/li " specmodel="inherit" specrole="editable" xtrc="li:3;23:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">
+        <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:4;24:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><xref class="- topic/xref " format="html" href="http://www.foodnetwork.com/recipes/alton-brown/omelet-recipe" scope="external" specmodel="inherit" specrole="editable" xtrc="xref:3;25:30" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><?ditaot usertext?>Omelet</xref>
+        </p>
+      </li>
+      <li class="- topic/li " specmodel="inherit" specrole="editable" xtrc="li:4;28:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">
+        <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:5;29:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><xref class="- topic/xref " format="html" href="http://www.foodnetwork.com/recipes/ina-garten/roasted-asparagus-with-scrambled-eggs-recipe" scope="external" specmodel="inherit" specrole="editable" xtrc="xref:4;31:44" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><?ditaot usertext?>Scrambled Eggs</xref></p>
+      </li>
+      <li class="- topic/li " specmodel="inherit" specrole="editable" xtrc="li:5;33:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">
+        <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:6;34:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><xref class="- topic/xref " format="html" href="http://www.foodnetwork.com/recipes/food-network-kitchen/chocolate-chip-cookies-recipe4" scope="external" specmodel="inherit" specrole="editable" xtrc="xref:5;36:44" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><?ditaot usertext?>Chocolate Chip Cookes</xref>
+        </p>
+      </li>
+      <li class="- topic/li " specmodel="inherit" specrole="editable" xtrc="li:6;39:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita">
+        <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:7;40:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><xref class="- topic/xref " format="html" href="http://www.foodnetwork.com/recipes/food-network-kitchen/smoky-bloody-marys" scope="external" specmodel="inherit" specrole="editable" xtrc="xref:6;41:44" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-references.dita"><?ditaot usertext?>Bloody Mary</xref>
+        </p>
+      </li>
+    </ul>
+  </body>
+</topic><troubleshooting xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic troubleshooting/troubleshooting " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="unique_8" oid="trouble_mvz_5ww_lz" xtrc="troubleshooting:1;3:42" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+  <title class="- topic/title " xtrc="title:1;4:10" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">What to Do if You Burn Yourself</title><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+  <troublebody class="- topic/body troubleshooting/troublebody " xtrc="troublebody:1;5:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+    <condition class="- topic/section troubleshooting/condition " xtrc="condition:1;6:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+      <p class="- topic/p " xtrc="p:1;7:10" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">You have accidentally burned yourself on the stove.</p>
+      <p class="- topic/p " xtrc="p:2;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita"/>
+    </condition>
+    <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution " xtrc="troubleSolution:1;10:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+      <cause class="- topic/section troubleshooting/cause " xtrc="cause:1;11:14" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+        <p class="- topic/p " xtrc="p:3;12:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">You accidentally placed your hand on the stove after cooking.</p>
+      </cause>
+      <remedy class="- topic/section troubleshooting/remedy " xtrc="remedy:1;14:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+        <responsibleParty class="- topic/p troubleshooting/responsibleParty " xtrc="responsibleParty:1;15:27" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita"/>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;16:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+          <step class="- topic/li task/step " xtrc="step:1;17:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:1;18:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">Go to the closet next to my bedroom.</cmd>
+          </step>
+          <step class="- topic/li task/step " xtrc="step:2;20:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:2;21:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">On the top shelf there is a first aid kit.</cmd>
+          </step>
+          <step class="- topic/li task/step " xtrc="step:3;23:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:3;24:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">Take out the burn spray.</cmd>
+          </step>
+          <step class="- topic/li task/step " xtrc="step:4;26:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:4;27:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">Spray the burn area on your skin.</cmd>
+          </step>
+          <step class="- topic/li task/step " xtrc="step:5;29:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:5;30:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">Follow the directions on the burn spray bottle for the number of
+              applications.</cmd>
+          </step>
+        </steps>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="unique_9" oid="concept_gfr_xxw_lz" xtrc="concept:1;3:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-conclusion.dita">
+ <title class="- topic/title " xtrc="title:1;4:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-conclusion.dita">Thank You!</title>
+ <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:13" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-conclusion.dita"> I hope you enjoyed the food! Please leave an comments or recommendations on how I can improve for next time! 
+  
+  <image class="- topic/image " href="images/meme.jpg" placement="inline" xtrc="image:1;7:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-conclusion.dita"/>
+ </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+ <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;9:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-conclusion.dita">
+  <p class="- topic/p " xtrc="p:1;10:6" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-conclusion.dita"/>
+ </conbody>
+</concept><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(hi-d) (topic h5m-d)" id="unique_10" oid="disclaimer" specmodel="inherit" specrole="editable" xtrc="topic:1;3:24" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita">
+  <title class="- topic/title " specmodel="inherit" specrole="editable" xtrc="title:1;4:10" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita">Safety Disclaimer</title><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+  <body class="- topic/body " specmodel="inherit" specrole="editable" xtrc="body:1;5:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita">
+    <p class="- topic/p " id="unique_10_Connect_42_safe" specmodel="inherit" specrole="editable" xtrc="p:1;6:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita"> Be careful after working on the stove. The stove top will remain hot for a while after use, so don't place your hand 
+      or any other items on the stove top. I am not responsible for any injuries! Please use all equipment, such as knives, carefully! 
+    </p>
+  </body>
+</topic><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="unique_11" oid="alcoholdisclaimer" xtrc="concept:1;3:33" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-alcoholdisclaimer.dita">
+ <title class="- topic/title " xtrc="title:1;4:9" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-alcoholdisclaimer.dita">Alcohol Consumption Warning</title><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+ <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;5:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-alcoholdisclaimer.dita">
+  <p class="- topic/p " id="unique_11_Connect_42_alcohol" xtrc="p:1;6:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-alcoholdisclaimer.dita"> The following bevarage contains alcohol. 
+   High consumption of alcohol severly impairs a person's motor functions. 
+   Please do not consume alcohol if before you drive, or if you have any other serious
+   health conditions. 
+   
+  </p>
+ </conbody>
+</concept><opentopic-index:index.groups/></map>

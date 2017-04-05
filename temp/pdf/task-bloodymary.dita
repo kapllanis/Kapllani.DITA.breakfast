@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Stephanie\Documents\GitHub\Kapllani.DITA.breakfast\temp\pdf?><?workdir-uri file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/temp/pdf/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA General Task//EN?><?doctype-system generalTask.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="bloodymary" xtrc="task:1;3:23" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Bloody Mary  </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">This is one of my favorite drinks to have with my breakfast on the weekends and it's
+        super easy to make!  
+    <image class="- topic/image " href="images/mommary.jpg" placement="inline" xtrc="image:1;7:39" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita"/>
+    </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;9:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;10:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Gather these ingredients. <ul class="- topic/ul " xtrc="ul:1;10:47" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+            <li audience="mom" class="- topic/li " xtrc="li:1;11:32" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">6 slices of peppered bacon </li>
+                <li class="- topic/li " xtrc="li:2;12:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">3 ¼ cups of vodka </li>
+                <li class="- topic/li " xtrc="li:3;13:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">1/3 cup lemon juice</li>
+                <li class="- topic/li " xtrc="li:4;14:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">1 tablespoon horseradish</li>
+                <li class="- topic/li " xtrc="li:5;15:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">2 teaspoons chipotle hot sauce</li>
+                <li class="- topic/li " xtrc="li:6;16:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">2 teaspoons Worcestershire sauce</li>
+                <li class="- topic/li " xtrc="li:7;17:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">½ teaspoon celery salt </li>
+                <li class="- topic/li " xtrc="li:8;18:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Ground black pepper </li>
+                <li class="- topic/li " xtrc="li:9;19:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">6 stalks with leaves</li>
+        </ul></prereq>
+        <context class="- topic/section task/context " xtrc="context:1;21:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+            <p class="- topic/p " xtrc="p:1;22:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;22:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Directions</b>
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;25:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+            <step audience="mom" class="- topic/li task/step " xtrc="step:1;26:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;27:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita"> Cook the bacon in a large skillet over medium heat, turning occasionally (9 -
+                    11 minutes).</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:2;30:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;31:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Drain the bacon on paper towels. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;33:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;34:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Combine the tomato juice, vodka, lemon juice, horseradish, hot sauce,
+                    Worcestershire sauce, celery salt and ½ teaspoon pepper in a pitcher/</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;37:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;38:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Refrigerate this mixture until ready to serve.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;40:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;41:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Pour the Bloody Mary mixture into 6 large ice-filled glasses.</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:6;43:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;44:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">Add a piece of bacon to each glass and enjoy!</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:7;46:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;47:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita"> Add a piece of celery stalk to each glass and enjoy!</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrc="postreq:1;50:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-bloodymary.dita">
+            <p class="- topic/p " xtrc="p:1;6:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/concept-alcoholdisclaimer.dita"> The following bevarage contains alcohol. 
+   High consumption of alcohol severly impairs a person's motor functions. 
+   Please do not consume alcohol if before you drive, or if you have any other serious
+   health conditions. 
+   
+  </p> 
+        </postreq>
+    </taskbody>
+</task>

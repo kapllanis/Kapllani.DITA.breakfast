@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Stephanie\Documents\GitHub\Kapllani.DITA.breakfast\temp\pdf?><?workdir-uri file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/temp/pdf/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA 1.3 Troubleshooting//EN?><?doctype-system troubleshooting.dtd?><troubleshooting xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic troubleshooting/troubleshooting " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="trouble_mvz_5ww_lz" xtrc="troubleshooting:1;3:42" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+  <title class="- topic/title " xtrc="title:1;4:10" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">What to Do if You Burn Yourself</title><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+  <troublebody class="- topic/body troubleshooting/troublebody " xtrc="troublebody:1;5:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+    <condition class="- topic/section troubleshooting/condition " xtrc="condition:1;6:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+      <p class="- topic/p " xtrc="p:1;7:10" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">You have accidentally burned yourself on the stove.</p>
+      <p class="- topic/p " xtrc="p:2;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita"/>
+    </condition>
+    <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution " xtrc="troubleSolution:1;10:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+      <cause class="- topic/section troubleshooting/cause " xtrc="cause:1;11:14" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+        <p class="- topic/p " xtrc="p:3;12:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">You accidentally placed your hand on the stove after cooking.</p>
+      </cause>
+      <remedy class="- topic/section troubleshooting/remedy " xtrc="remedy:1;14:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+        <responsibleParty class="- topic/p troubleshooting/responsibleParty " xtrc="responsibleParty:1;15:27" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita"/>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;16:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+          <step class="- topic/li task/step " xtrc="step:1;17:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:1;18:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">Go to the closet next to my bedroom.</cmd>
+          </step>
+          <step class="- topic/li task/step " xtrc="step:2;20:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:2;21:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">On the top shelf there is a first aid kit.</cmd>
+          </step>
+          <step class="- topic/li task/step " xtrc="step:3;23:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:3;24:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">Take out the burn spray.</cmd>
+          </step>
+          <step class="- topic/li task/step " xtrc="step:4;26:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:4;27:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">Spray the burn area on your skin.</cmd>
+          </step>
+          <step class="- topic/li task/step " xtrc="step:5;29:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">
+            <cmd class="- topic/ph task/cmd " xtrc="cmd:5;30:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/troubleshooting-injuries.dita">Follow the directions on the burn spray bottle for the number of
+              applications.</cmd>
+          </step>
+        </steps>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

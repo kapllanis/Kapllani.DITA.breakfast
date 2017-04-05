@@ -1,7 +1,7 @@
 fil = new Array();
 fil["0"]= "concept-alcoholdisclaimer.html@@@Alcohol Consumption Warning@@@The following bevarage contains alcohol. High consumption of alcohol severly impairs a person&apos;s motor functions. Please do not consume alcohol if before you drive, or if you have any other serious...";
 fil["1"]= "concept-conclusion.html@@@Thank You!@@@I hope you enjoyed the food! Please leave an comments or recommendations on how I can improve for next time!...";
-fil["2"]= "concept-intro.html@@@Welcome to your Breakfast GuideArmando!@@@Good morning! I hope these breakfast recipes meet all your nutrion needs! I tried to include a good balance between healthy and sweet foods. The following list includes the locations of all the...";
+fil["2"]= "concept-intro.html@@@Welcome to your Breakfast Guide Armando!@@@Good morning! I hope these breakfast recipes meet all your nutrion needs! I tried to include a good balance between healthy and sweet foods. The following list includes the locations of all the...";
 fil["3"]= "intro-armando.html@@@Welcome Armando@@@...";
 fil["4"]= "references.html@@@***@@@...";
 fil["5"]= "task-bloodymary.html@@@Bloody Mary@@@This is one of my favorite drinks to have with my breakfast on the weekends and it&apos;s super easy to make!...";

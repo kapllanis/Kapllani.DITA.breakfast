@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Stephanie\Documents\GitHub\Kapllani.DITA.breakfast\temp\pdf?><?workdir-uri file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/temp/pdf/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="casserole" xtrc="task:1;3:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+    
+    <title class="- topic/title " xtrc="title:1;5:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Breakfast Casserole </title>
+    
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;7:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">If you're feeling up to a breakfast cooking challenge, choose this recipe. It is a
+        little more complicated than the other selections, but you won't be disappointed with this
+        delicious meal. 
+    
+    <image class="- topic/image " href="images/casserole.jpg" placement="inline" xtrc="image:1;11:41" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita"/>
+    </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+    
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;14:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;15:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Gather these ingredients. <ul class="- topic/ul " xtrc="ul:1;15:47" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <li audience="mom" class="- topic/li " xtrc="li:1;16:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">8 ounces of spicy or sweet turkey links, casings removed, meat crumbled</li>
+                
+                <li class="- topic/li " xtrc="li:3;18:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">2 scallions, sliced</li>
+                <li class="- topic/li " xtrc="li:4;19:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">6 eggs </li>
+                <li class="- topic/li " xtrc="li:5;20:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">6 large egg whites</li>
+                <li audience="mom" class="- topic/li " xtrc="li:6;21:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">1 ¾ cups of 1% milk</li>
+                
+                <li class="- topic/li " xtrc="li:8;23:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Kosher salt </li>
+                <li class="- topic/li " xtrc="li:9;24:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Freshly ground black pepper</li>
+                <li class="- topic/li " xtrc="li:10;25:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">One 9-ounce package frozen chopped spinach, thawed and drained of excess
+                    liquid</li>
+                <li audience="mom" class="- topic/li " xtrc="li:11;27:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">¾ cup shredded cheddar</li>
+                
+                <li audience="mom" class="- topic/li " xtrc="li:13;29:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">½ cup grated parmesan </li>
+                <li class="- topic/li " xtrc="li:14;30:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">½ whole wheat baguette, cut into ¾-inch cubes (about 4 cups)</li>
+            </ul></prereq>
+        <context class="- topic/section task/context " xtrc="context:1;32:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+            <p class="- topic/p " xtrc="p:1;33:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;33:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Directions</b>
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;36:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+            <step class="- topic/li task/step " xtrc="step:1;37:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;38:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Heat a large nonstick skillet over medium heat.</cmd>
+            </step>
+            
+            <step audience="mom" class="- topic/li task/step " xtrc="step:3;45:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;46:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Add turkey and scallions, stir to break up any large chunks, and cook for ten
+                    minutes, or until browned.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;49:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;50:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Remove from heat and let cool slightly.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;52:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;53:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Whisk the eggs, egg whites, milk and ½ teaspoon each salt and pepper in a large
+                    bowl until combined. </cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:6;56:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;57:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Add the cooked sausage.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:7;59:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;60:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Add the spinach, cheeses, bread, and toss to distribute ingredients evenly.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:8;62:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:8;63:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Spray a 3-quart casserole dish with cooking spray. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:9;65:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:9;66:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Spread the egg mixture evenly in the dish. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:10;68:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:10;69:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Cover and refrigerate for an hour. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:11;71:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:11;72:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Preheat the oven to 350 degrees F. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:12;74:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:12;75:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">Bake the casserole, uncovered, until set and lightly browned on top for 30
+                    minutes. </cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrc="postreq:1;79:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastcasserole.dita">
+            <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:1;6:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita"> Be careful after working on the stove. The stove top will remain hot for a while after use, so don't place your hand 
+      or any other items on the stove top. I am not responsible for any injuries! Please use all equipment, such as knives, carefully! 
+    </p>
+        </postreq>
+    </taskbody>
+</task>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Stephanie\Documents\GitHub\Kapllani.DITA.breakfast\temp\pdf?><?workdir-uri file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/temp/pdf/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA General Task//EN?><?doctype-system generalTask.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="sandwich" xtrc="task:1;3:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Breakfast Sandwich </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Nothing beats a sandwich on a bagel, satisfying and delicious. 
+    <image class="- topic/image " href="images/sandwich.jpg" placement="inline" xtrc="image:1;6:40" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita"/>
+    </shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;8:11" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/map-mom.ditamap">Stephanie Kapllani</author></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;8:15" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+        <prereq class="- topic/section task/prereq " xtrc="prereq:1;9:17" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Gather these ingredients. <ul class="- topic/ul " xtrc="ul:1;9:47" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <li audience="mom" class="- topic/li " xtrc="li:1;10:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">¾ cup cream cheese</li>
+                <li audience="mom" class="- topic/li " xtrc="li:2;11:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">1 tablespoon dill</li>
+                <li audience="mom" class="- topic/li " xtrc="li:3;12:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">1 tablespoon parsley</li>
+                <li audience="mom" class="- topic/li " xtrc="li:4;13:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Pinch chile powder</li>
+                <li class="- topic/li " xtrc="li:5;14:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Kosher salt </li>
+                <li class="- topic/li " xtrc="li:6;15:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Ground black pepper</li>
+                <li class="- topic/li " xtrc="li:7;16:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">1 tomato</li>
+                <li class="- topic/li " xtrc="li:8;17:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Vegetable oil </li>
+                <li class="- topic/li " xtrc="li:9;18:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">8 slices of Ham</li>
+                <li class="- topic/li " xtrc="li:10;19:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">8 eggs</li>
+                <li audience="mom" class="- topic/li " xtrc="li:11;20:36" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">1 tablespoon butter</li>
+                
+                <li class="- topic/li " xtrc="li:13;22:21" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">4 bagles, split </li>
+            </ul></prereq>
+        <context class="- topic/section task/context " xtrc="context:1;24:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+            <p class="- topic/p " xtrc="p:1;25:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;25:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Directions</b>
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;28:16" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+            <step audience="mom" class="- topic/li task/step " xtrc="step:1;29:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;30:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Place the cream cheese in a bowl. </cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:2;32:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;33:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Add the dill, parsley, chile, salt, and pepper to the bowl.</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:3;35:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;36:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Thoroughly mix the ingredients to evenly distribute the flavors. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;38:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;39:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita"> Slice 4 rounds from the center of the tomato. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;41:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;42:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Season the tomatoes with salt and pepper and set aside.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;44:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;45:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Whisk the eggs in a bowl and sprinkle with salt and pepper. </cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:7;47:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;48:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Put a pan on medium heat and add the butter. </cmd>
+            </step>
+            
+            <step class="- topic/li task/step " xtrc="step:9;55:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:9;56:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Add the eggs and cook until scrambled (about 5 minutes).</cmd>
+            </step>
+            <step audience="mom" class="- topic/li task/step " xtrc="step:10;58:34" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:10;59:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Spread 1 tablespoon of the herb cream cheese on each bagel half. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:11;61:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:11;62:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Place 2 slices of the meet on the bottom half of each bagel. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:12;64:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:12;65:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Top with scrambled eggs and sliced tomato. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:13;67:19" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:13;68:22" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">Place the top half of each bagel on the sandwiches and enjoy!</cmd>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrc="postreq:1;71:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/task-breakfastsandwich.dita">
+            <p class="- topic/p " specmodel="inherit" specrole="editable" xtrc="p:1;6:18" xtrf="file:/C:/Users/Stephanie/Documents/GitHub/Kapllani.DITA.breakfast/xdita-safetydisclaimer.dita"> Be careful after working on the stove. The stove top will remain hot for a while after use, so don't place your hand 
+      or any other items on the stove top. I am not responsible for any injuries! Please use all equipment, such as knives, carefully! 
+    </p>
+        </postreq>
+    </taskbody>
+</task>

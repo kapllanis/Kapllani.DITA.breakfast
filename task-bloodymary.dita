@@ -23,12 +23,12 @@
             </p>
         </context>
         <steps>
-            <step>
-                <cmd audience="mom"> Cook the bacon in a large skillet over medium heat, turning occasionally (9 -
+            <step audience="mom">
+                <cmd> Cook the bacon in a large skillet over medium heat, turning occasionally (9 -
                     11 minutes).</cmd>
             </step>
-            <step>
-                <cmd audience="mom">Drain the bacon on paper towels. </cmd>
+            <step audience="mom">
+                <cmd>Drain the bacon on paper towels. </cmd>
             </step>
             <step>
                 <cmd>Combine the tomato juice, vodka, lemon juice, horseradish, hot sauce,
@@ -40,8 +40,8 @@
             <step>
                 <cmd>Pour the Bloody Mary mixture into 6 large ice-filled glasses.</cmd>
             </step>
-            <step>
-                <cmd audience="mom">Add a piece of bacon to each glass and enjoy!</cmd>
+            <step audience="mom">
+                <cmd>Add a piece of bacon to each glass and enjoy!</cmd>
             </step>
             <step>
                 <cmd> Add a piece of celery stalk to each glass and enjoy!</cmd>
