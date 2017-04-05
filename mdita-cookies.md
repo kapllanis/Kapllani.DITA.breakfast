@@ -1,7 +1,5 @@
 # Chocolate Chip Cookies
 
-![Fruit Salad](https://github.com/kapllanis/Kapllani.DITA.breakfast/blob/master/images/fruitsalad.jpg)
-
 ## Ingredients 
 * 1 stick of unsalted butter
 * 3/4 cup packed dark brown sugar

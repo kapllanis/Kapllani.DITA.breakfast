@@ -2,8 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="sandwich">
     <title>Breakfast Sandwich </title>
-    <shortdesc>Nothing beats a sandwich on a bagel, satisfying and delicious. </shortdesc>
+    <shortdesc>Nothing beats a sandwich on a bagel, satisfying and delicious. 
     <image href="images/sandwich.jpg"/>
+    </shortdesc>
     <taskbody>
         <prereq>Gather these ingredients. <ul>
                 <li>¾ cup cream cheese</li>

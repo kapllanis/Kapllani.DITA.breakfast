@@ -28,10 +28,12 @@
   <topicref href="task-bloodymary.dita"/>
  </topichead>
  <topichead navtitle="Desserts">
-  <topicref href="mdita-cookies.md"/>
   <topicref href="mdita-fruitsalad.md"/>
  </topichead>
  <topicref href="xdita-references.dita"/>
+ <topicref href="troubleshooting-injuries.dita"/>
+ <topicref href="concept-conclusion.dita"/>
+ 
  <topicref href="xdita-safetydisclaimer.dita"/>
  <topicref href="concept-alcoholdisclaimer.dita"/>
  

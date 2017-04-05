@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble_mvz_5ww_lz">
+  <title>What to Do if You Burn Yourself</title>
+  <troublebody>
+    <condition>
+      <p>You have accidentally burned yourself on the stove.</p>
+      <p/>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <p>You accidentally placed your hand on the stove after cooking.</p>
+      </cause>
+      <remedy>
+        <responsibleParty></responsibleParty>
+        <steps>
+          <step>
+            <cmd>Go to the closet next to my bedroom.</cmd>
+          </step>
+          <step>
+            <cmd>On the top shelf there is a first aid kit.</cmd>
+          </step>
+          <step>
+            <cmd>Take out the burn spray.</cmd>
+          </step>
+          <step>
+            <cmd>Spray the burn area on your skin.</cmd>
+          </step>
+          <step>
+            <cmd>Follow the directions on the burn spray bottle for the number of
+              applications.</cmd>
+          </step>
+        </steps>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

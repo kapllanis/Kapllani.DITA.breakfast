@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="topic_m2j_13t_lz" path="intro-armando.html"/>
-   <appContext helpID="" path="task-breakfastcasserole.html"/>
-   <appContext helpID="omelet" path="task-omelet.html"/>
-   <appContext helpID="task_mgy_r3t_lz" path="task-scrambledeggs.html"/>
-   <appContext helpID="task_pgr_y3t_lz" path="task-bloodymary.html"/>
-   <appContext helpID="task_rdn_2jt_lz" path="task-cookies.html"/>
-   <appContext helpID="" path="task-fruitsalad.html"/>
-   <appContext helpID="task_hqz_njt_lz" path="task-cleanup.html"/>
-   <appContext helpID="topic_k3z_jjt_lz" path="references.html"/>
+   <appContext helpID="introduction" path="concept-intro.html"/>
+   <appContext helpID="casserole" path="task-breakfastcasserole.html"/>
+   <appContext helpID="scrambledeggs" path="task-scrambledeggs.html"/>
+   <appContext helpID="casserole" path="task-omelet.html"/>
+   <appContext helpID="sandwich" path="task-breakfastsandwich.html"/>
+   <appContext helpID="bloodymary" path="task-bloodymary.html"/>
+   <appContext helpID="" path="mdita-fruitsalad.html"/>
+   <appContext helpID="topic_k1g_yn5_lz" path="xdita-references.html"/>
+   <appContext helpID="trouble_mvz_5ww_lz" path="troubleshooting-injuries.html"/>
+   <appContext helpID="concept_gfr_xxw_lz" path="concept-conclusion.html"/>
+   <appContext helpID="disclaimer" path="xdita-safetydisclaimer.html"/>
+   <appContext helpID="alcoholdisclaimer" path="concept-alcoholdisclaimer.html"/>
 </map>

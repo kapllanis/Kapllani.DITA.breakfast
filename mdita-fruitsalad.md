@@ -1,5 +1,6 @@
 #Fruit Salad 
-![https://github.com/kapllanis/Kapllani.DITA.breakfast/blob/master/images/fruitsalad.jpg]
+
+!(Fruit Salad)[https://github.com/kapllanis/Kapllani.DITA.breakfast/blob/master/images/fruitsalad.jpg]
 
 ##Ingredients 
 * 2 bananas 
