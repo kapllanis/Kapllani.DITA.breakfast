@@ -61,5 +61,8 @@
                 <cmd>Place the top half of each bagel on the sandwiches and enjoy!</cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="xdita-safetydisclaimer.dita#disclaimer/safe"/>
+        </postreq>
     </taskbody>
 </task>

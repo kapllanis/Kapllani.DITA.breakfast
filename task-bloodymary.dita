@@ -3,11 +3,12 @@
 <task id="bloodymary">
     <title>Bloody Mary  </title>
     <shortdesc>This is one of my favorite drinks to have with my breakfast on the weekends and it's
-        super easy to make!  </shortdesc>
+        super easy to make!  
     <image href="images/mommary.jpg"/>
+    </shortdesc>
     <taskbody>
         <prereq>Gather these ingredients. <ul>
-            <li>6 slices of peppered bacon </li>
+            <li audience="mom">6 slices of peppered bacon </li>
                 <li>3 ¼ cups of vodka </li>
                 <li>1/3 cup lemon juice</li>
                 <li>1 tablespoon horseradish</li>
@@ -23,11 +24,11 @@
         </context>
         <steps>
             <step>
-                <cmd> Cook the bacon in a large skillet over medium heat, turning occasionally (9 -
+                <cmd audience="mom"> Cook the bacon in a large skillet over medium heat, turning occasionally (9 -
                     11 minutes).</cmd>
             </step>
             <step>
-                <cmd>Drain the bacon on paper towels. </cmd>
+                <cmd audience="mom">Drain the bacon on paper towels. </cmd>
             </step>
             <step>
                 <cmd>Combine the tomato juice, vodka, lemon juice, horseradish, hot sauce,
@@ -40,11 +41,14 @@
                 <cmd>Pour the Bloody Mary mixture into 6 large ice-filled glasses.</cmd>
             </step>
             <step>
-                <cmd>Add a piece of bacon to each glass and enjoy!</cmd>
+                <cmd audience="mom">Add a piece of bacon to each glass and enjoy!</cmd>
             </step>
             <step>
-                <cmd>Add a piece of celery stalk to each glass and enjoy!</cmd>
+                <cmd> Add a piece of celery stalk to each glass and enjoy!</cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="concept-alcoholdisclaimer.dita#alcoholdisclaimer/alcohol"/> 
+        </postreq>
     </taskbody>
 </task>

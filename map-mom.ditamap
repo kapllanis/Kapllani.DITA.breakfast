@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-
 <map>
- <title>Breakfast Guide for Armando</title>
- 
+ <title>Breakfast Guide for Mom</title>
  <topicmeta>
   <author>Stephanie Kapllani</author>
   
  </topicmeta>
  
- <keydef keys="person">
+ <keydef keys="bacon">
   <topicmeta>
    <keywords>
-    <keyword>Armando!</keyword>
+    <keyword></keyword>
    </keywords>
   </topicmeta>
  </keydef>
  
- <topicref href="concept-intro.dita"/>
+ <topicref href="intro-armando.dita"/>
  <topichead navtitle="Entrees">
   <topicref href="task-breakfastcasserole.dita" navtitle="Casserole"/>
   <topicref href="task-scrambledeggs.dita" navtitle="Scrambled Eggs"/>
@@ -32,7 +30,5 @@
   <topicref href="mdita-fruitsalad.md"/>
  </topichead>
  <topicref href="xdita-references.dita"/>
- <topicref href="xdita-safetydisclaimer.dita"/>
- <topicref href="concept-alcoholdisclaimer.dita"/>
  
 </map>

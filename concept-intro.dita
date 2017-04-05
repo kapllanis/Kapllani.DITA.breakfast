@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="introduction">
- <title>Introduction</title>
+ <title>Welcome to your Breakfast Guide,<keyword keyref="person"></keyword>
+ </title>
  <conbody>
-  <p id="introduction">
-   Good morning! I hope these breakfast recipes meet all your nutrion needs! I tried to include a good balance between healthy and sweet foods. 
-   The following list includes the locations of all the materials for your cooking needs.
-   <ul>
+  <p id="introduction">Good morning! I hope these breakfast recipes meet all your nutrion needs! I
+   tried to include a good balance between healthy and sweet foods. The following list includes the
+   locations of all the materials for your cooking needs. If there are any emergencies, call me!<ul>
     <li><b>Spices</b> are located in the cabinet above the sink. </li>
     <li><b>Fresh Food</b> is located in the fridge.</li>
     <li><b>Dry Food</b> is located in the pantry next to the window.</li>

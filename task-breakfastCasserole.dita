@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="casserole">
+    
     <title>Breakfast Casserole </title>
+    
     <shortdesc>If you're feeling up to a breakfast cooking challenge, choose this recipe. It is a
         little more complicated than the other selections, but you won't be disappointed with this
-        delicious meal. </shortdesc>
+        delicious meal. 
+    
     <image href="images/casserole.jpg"/>
+    </shortdesc>
+    
     <taskbody>
         <prereq>Gather these ingredients. <ul>
-                <li>8 ounces of spicy or sweet turkey links, casings removed, meat crumbled</li>
+                <li audience="mom">8 ounces of spicy or sweet turkey links, casings removed, meat crumbled</li>
+                <li audience="armando">8 ounces of tofu</li>
                 <li>2 scallions, sliced</li>
                 <li>6 eggs </li>
                 <li>6 large egg whites</li>
-                <li>1 ¾ cups of 1% milk</li>
+                <li audience="mom">1 ¾ cups of 1% milk</li>
+                <li audience="armando">1 ¾  cups soy milk</li>
                 <li>Kosher salt </li>
                 <li>Freshly ground black pepper</li>
                 <li>One 9-ounce package frozen chopped spinach, thawed and drained of excess
                     liquid</li>
-                <li>¾ cup shredded Cheddar</li>
-                <li>½ cup grated Parmesan </li>
+                <li audience="mom">¾ cup shredded cheddar</li>
+                <li audience="armando">¾ cup vegan cheddar</li>
+                <li audience="mom">½ cup grated parmesan </li>
                 <li>½ whole wheat baguette, cut into ¾-inch cubes (about 4 cups)</li>
             </ul></prereq>
         <context>
@@ -29,8 +37,13 @@
             <step>
                 <cmd>Heat a large nonstick skillet over medium heat.</cmd>
             </step>
-            <step audience="mom">
-                <cmd>Add turkey and scallions, stir to break up any large chunks, and cook for ten
+            <step>
+                <cmd audience="armando">
+                    Add tofu, stir to break up an large chunks, and cook for ten minutes.
+                </cmd>
+            </step>
+            <step>
+                <cmd audience="mom">Add turkey and scallions, stir to break up any large chunks, and cook for ten
                     minutes, or until browned.</cmd>
             </step>
             <step>
@@ -61,5 +74,8 @@
                     minutes. </cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="xdita-safetydisclaimer.dita#disclaimer/safe"/>
+        </postreq>
     </taskbody>
 </task>

@@ -2,9 +2,14 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="scrambledeggs">
     <title> Scrambled Eggs</title>
+    
     <shortdesc>You can't go wrong with this breakfast classic, follow these simple instructions for
-        a very healthy meal.  </shortdesc>
-    <image href="images/scrambledeggs.jpg"/>
+        a very healthy meal.  
+    
+        <image href="images/scrambledeggs.jpg"/>
+    
+    </shortdesc>
+    
     <taskbody>
         <prereq>Gather these ingredients. <ul>
             <li>¾ pound fresh asparagus </li>
@@ -59,5 +64,8 @@
                 <cmd>Serve with the roasted asparagus and toasted bread.  </cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="xdita-safetydisclaimer.dita#disclaimer/safe"/>
+        </postreq>
     </taskbody>
 </task>

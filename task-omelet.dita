@@ -2,20 +2,26 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="casserole">
     <title>Omelet</title>
+    
     <shortdesc>If you're feeling up to a breakfast cooking challenge, choose this recipe. It is a
         little more complicated than the other selections, but you won't be disappointed with this
-        delicious meal. </shortdesc>
-    <image href="images/casserole.jpg"/>
+        delicious meal. 
+        
+    <image href="images/omelet.jpg"/>
+        
+    </shortdesc>
     <taskbody>
         <prereq>Gather these ingredients. <ul>
             <li>3 eggs, warmed in hot water for 5 minutes</li>
                 <li>Pinch of salt</li>
-                <li>1 teaspoon butter, room temperature</li>
+                <li audience="armando">1 teaspoon olive oil</li>
+                <li audience="mom">1 teaspoon butter, room temperature</li>
                 <li>½ teaspoon chives</li>
                 <li>1 red pepper</li>
                 <li>½ cup mushrooms</li>
-                <li>½ cup cheddar cheese</li>
-                <li>¼ cup of bacon bits </li>
+                <li audience="mom">½ cup cheddar cheese</li>
+                <li audience="armando">1/2 vegan cheddar cheese</li>
+                <li audience="mom">¼ cup of bacon bits </li>
                 <li>¼ cup of onions</li>
         </ul></prereq>
         <context>
@@ -33,7 +39,12 @@
                 <cmd>Heat a pan over medium-high heat.</cmd>
             </step>
             <step>
-                <cmd>Once the pan is hot, add butter to the pan.</cmd>
+                <cmd audience="mom">Once the pan is hot, add butter to the pan.</cmd>
+            </step>
+            <step>
+                <cmd audience="armando">Once the pan is hot, add olive oil to the pan.
+                    
+                </cmd>
             </step>
             <step>
                 <cmd>Pour the eggs into the center of the pan and stir vigorously with a rubber
@@ -46,9 +57,15 @@
             <step>
                 <cmd>Add the mushrooms, onions, red pepper, and bacon bits.</cmd>
             </step>
-            <step>
+           <step>
+               <cmd audience="mom">
+                   Add the bacon bits to the omelet. 
+               </cmd>
+           </step>
+                
+               <step> 
                 <cmd>After 6 minutes, add the cheese.</cmd>
-            </step>
+               </step>
             <step>
                 <cmd>After 4 more minutes, shake the pan to loosen the omelet from the pan.</cmd>
             </step>
@@ -58,6 +75,10 @@
             <step>
                 <cmd>Slide the omelet onto your plate and spinkle with the chives.</cmd>
             </step>
+    
         </steps>
+        <postreq>
+            <p conref="xdita-safetydisclaimer.dita#disclaimer/safe"/>
+        </postreq>
     </taskbody>
 </task>
